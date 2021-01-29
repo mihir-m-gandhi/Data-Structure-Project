@@ -9,7 +9,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
-<h4>This project was developed as part of Data Structures coursework and tries to demonstrate the applications of many data structures like 1-D array, 2-D array, linked list, queue, graph as well as some data handling techniques like hashing.</h4>
+<h4>This project was developed as part of Data Structures coursework and demonstrate the applications of many data structures and data handling techniques like 1-D array, 2-D array, linked list, queue, graph, and hashing.</h4>
 
 </div>
 
