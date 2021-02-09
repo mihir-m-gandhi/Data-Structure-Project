@@ -1,6 +1,5 @@
 <p align="center">
-  <a href="" rel="noopener">
- <img height=200px src="./ds.png" alt="Data Structures"></a>
+ <img height=200px src="./ds.png" alt="Data Structures">
 </p>
 
 <h1 align="center">Data Structures Project</h1>
